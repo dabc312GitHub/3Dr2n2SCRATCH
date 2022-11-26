@@ -25,6 +25,7 @@ source activate 3dr2n2Torch
 
 Para instalar desde conda se requiere lo siguiente que se encuentra en search Anaconda
 ```bash
+conda install -c free configargparse
 conda install -c intel numpy
 conda install -c cctbx202008 pillow
 conda install -c scw tensorboardx
