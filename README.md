@@ -1,7 +1,7 @@
 # Implementación del paper 3D-R2N2 para la Reconstrucción 3D con Voxeles
 - Esta implementación fue realizada con pytorch basada en el paper: ["3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction"](http://arxiv.org/abs/1604.00449) by Choy et al. 
 - Para esta implementación se tiene por input una o multiples vistas de imágenes de un objeto para que la red neuronal proceda a desarrollar la reconstrucción 3D voxelizada.  
-- La implemetación base se tiene desde el siguiente repositorio del paper: ["chrischoy/3D-R2N2"](http://github.com/chrischoy/3D-R2N2), esta implementación del paper fue desarrollado con la librería Theano.
+- La implemetación base se tiene desde el siguiente repositorio del paper: ["chrischoy/3D-R2N2"](http://github.com/chrischoy/3D-R2N2), esta implementación del paper fue desarrollado con la librería Theano además se tiene la siguiente referencia de implementación["versión pytorch de referencia"](https://github.com/alex-golts/Pytorch-3D-R2N2).
 
 ## Instalación y configuración inicial
 El siguiente código fue desarrollado bajo las siguientes características:
